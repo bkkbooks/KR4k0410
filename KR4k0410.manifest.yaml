@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR4k0410/v1
+canonical_location: https://kanripo.org/bkk/KR4k0410/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 零陵先賢傳一卷
+  identifiers:
+    krp: KR4k0410
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0410.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0410_001.yaml, hash: 'sha256:f983ff9f597b4eaf4bdb910dc6da4e06f9a48df44ff19104b40d9cb811fbca61'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0410_001.markers.yaml, hash: 'sha256:f8518fc652c36aa025ca1efb641098c80bf86896903c1334a4c2704d5afb4bf0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0410_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 216
+  label: 零陵先賢傳
+  type: section
+  level: 1
+hash: sha256:473313950b9db34637f36be8fa208f72394b4e4233f85e3f5528f9efac36cdb6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
