@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0410_001.yaml, hash: 'sha256:f983ff9f597b4eaf4bdb910dc6da4e06f9a48df44ff19104b40d9cb811fbca61'}
+  - {seq: 1, filename: KR4k0410_001.yaml, hash: 'sha256:036e51ac7a1d3a52172b64f2bb752eb0abb1f351a307d0dcb475ca6de4df87e6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0410_001.markers.yaml, hash: 'sha256:f8518fc652c36aa025ca1efb641098c80bf86896903c1334a4c2704d5afb4bf0'}
+  - {seq: 1, role: markers, filename: assets/KR4k0410_001.markers.yaml, hash: 'sha256:9a4cac59460a9817fe84825bf5cc3a6378b4d41c7c4bec929ca77e7ab17a1777'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 零陵先賢傳
   type: section
   level: 1
-hash: sha256:473313950b9db34637f36be8fa208f72394b4e4233f85e3f5528f9efac36cdb6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1cc2a561f2d5f7aaecda974fc759d87039079b1f98bcf29bcfc37144544fdb76
